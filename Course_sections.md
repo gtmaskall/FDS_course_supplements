@@ -26,6 +26,8 @@ And don't forget the [Springboard community](https://foundationsdscommunity.spri
 Hint: if posting an R question to the community, have you watched the above video,
 particularly slide 11? ;-)
 
+TODO Finding help
+
 ## Start thinking about your capstone project
 
 I'd already put together some guidance on finding your capstone project
