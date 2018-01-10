@@ -4,7 +4,8 @@ Here I'll try to provide resources under section headings that relate
 to the Springboard curriculum units. Not all curriculum units will have
 sections here. For example, "Getting started with the workshop" is
 rather specific to Springboard. However, I can add some general
-"getting started" resources.
+"getting started" resources. Much of these come from JHU's excellent
+data science specialization course on Coursera.
 
 ## Getting started
 
@@ -20,7 +21,7 @@ reading it for the twentieth time, write them out. Return to this list periodica
 you work on your capstone project. Have you started to answer the question? Are you
 progressing through the list?
 
-And just to remind you, here is their list for
+And just to remind you, here is JHU's list for:
 
 ### What do data scientists do?
 
