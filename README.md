@@ -11,3 +11,19 @@ You may be thinking here that this is all just giving you more work to do.
 You're absolutely right. No one said learning was easy. But these are all
 entirely additional resources you can dip into as you like if you'd like
 some additional information on particular points.
+
+The curriculum is spanned by files that cover the logical sections:
+
+## Getting started
+
+This includes motivating material and introduction to key ideas and
+workflows and, importantly tools. At the end you should be up and running
+with RStudio, Git, and GitHub.
+
+## Stages of data analysis
+
+TODO
+
+## Writing up
+
+TODO
