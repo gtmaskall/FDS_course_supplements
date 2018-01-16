@@ -210,3 +210,10 @@ that also allow you to include R code and its output.
 
 Okay. You're now ready to start putting this to good use. In this optional exercise you're
 going to fork a GitHub repository and edit it to tell us a little about yourself.
+The template repo I've started can be found
+[here](https://github.com/gtmaskall/Springboard_introduction).
+You should now be able to fork this repository to make your own copy on GitHub. You can either
+edit on GitHub, or take a local copy on your computer. Edit it to make it your own; the sections
+and contents are just suggestions to get you thinking. This is all "bonus material", but with the
+serious purpose of giving you a great start being up and running with Git and GitHub.
+
