@@ -192,6 +192,12 @@ command above), a project name, and a location on your computer. Once done, you'
 RStudio project that is all ready and set up with Git and GitHub. All you need to do is create
 files, add them to Git, commit and push!
 
+Another Springboard mentor has produced a guide to connecting RStudio and GitHub,
+with particular reference to using ssh. Even if you feel using ssh is a bit much at the
+moment, there are some useful screenshots included that could help you cloning a
+project into RStudio. Take a look [here](
+https://github.com/numeract/learning-R/tree/master/RStudio-IDE/github).
+
 [Basic Git Commands](
 https://www.coursera.org/learn/data-scientists-tools/lecture/BTILd/basic-git-commands)
 is very useful 5 minute video. It starts on slide 2 with a schematic of Git workflow.
